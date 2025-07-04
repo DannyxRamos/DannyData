@@ -18,6 +18,7 @@ Python Projects
 Reports / Writing Samples
 - [College Factbook 2024](#) – Summary of institutional data for college stakeholders
 
+
 | Repository                           | Purpose                                                              | Status                               | Next Action                                                      |
 |:-------------------------------------|:---------------------------------------------------------------------|:-------------------------------------|:-----------------------------------------------------------------|
 | bergen-CLNA-Website                  | CLNA Google Site management + static data visualizations             | ✅ README drafted                    | Add mock visual/sample if desired                                |

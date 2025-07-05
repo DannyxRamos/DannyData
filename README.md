@@ -42,9 +42,10 @@ Power BI dashboards for visualizing student outcomes and demographic data.
 
 ---
 
-## 📌 Note
+## 📌 Contact
 
-This portfolio reflects my work as a Research Analyst at Bergen Community College and personal data analytics projects. For more details or to collaborate, feel free to [connect with me](mailto:your-email@example.com).
+For more details or collaboration opportunities, feel free to [email me](mailto:dannyramos313@gmail.com).
+
 
 
 

@@ -1,47 +1,51 @@
-# Danny's Data Portfolio
+# DannyData – Data Portfolio
 
-Welcome to my data analytics portfolio! My work focuses on automating data processes, creating dashboards, and producing clear, impactful data visualizations using Python, R, Power BI, and other tools. Below are links to my individual projects.
-
----
-
-## 📂 Project Links
-
-🔹 [bergen-CLNA-Website](https://github.com/DannyxRamos/bergen-CLNA-Website)  
-A private Google Site resource for Perkins V CLNA stakeholders. Includes static data visualizations, meeting materials, and survey links.
-
-🔹 [bergen-CTE-Survey](https://github.com/DannyxRamos/bergen-CTE-Survey)  
-Python and R scripts to clean, analyze, and visualize Career and Technical Education survey data.
-
-🔹 [bergen-CLNA-2025](https://github.com/DannyxRamos/bergen-CLNA-2025)  
-Automation scripts and data files supporting the 2025 CLNA cycle, including survey integration and reporting.
-
-🔹 [bergen-veds2025](https://github.com/DannyxRamos/bergen-veds2025)  
-SPSS and Python syntax files for preparing VEDS state reporting data for 2023-2024.
-
-🔹 [bergen-informer-dashboard-assessment](https://github.com/DannyxRamos/bergen-informer-dashboard-assessment)  
-Assessment and prototype development for dashboards using Informer BI tool.
-
-🔹 [bergen-program-review-automation](https://github.com/DannyxRamos/bergen-program-review-automation)  
-Python scripts for automating the generation of academic program review reports.
-
-🔹 [bergen-factbook-project](https://github.com/DannyxRamos/bergen-factbook-project)  
-Annual factbook data pipeline, including cleaning, visualization, and report generation.
-
-🔹 [powerbi-student-dashboard](https://github.com/DannyxRamos/powerbi-student-dashboard)  
-Power BI dashboards for visualizing student outcomes and demographic data.
+Welcome! I'm a Research Analyst and Data Enthusiast specializing in education data, automation, and institutional reporting. Below is a curated selection of my Python, Excel, and dashboard projects.
 
 ---
 
-## 💡 Skills Demonstrated
+##  Survey Analysis Projects
+Surveys that capture student, faculty, or graduate feedback.
 
-- **Programming:** Python (pandas, matplotlib, seaborn), R (ggplot2, dplyr), SPSS syntax
-- **Visualization:** Power BI, Informer BI, ggplot2, seaborn
-- **Automation:** Data cleaning, survey processing, report generation
-- **Dashboards:** Interactive dashboards in Power BI, Informer
-- **Data strategy:** Survey data processing, compliance reporting, institutional analytics
+| Project | Description |
+|--------|-------------|
+| [Perkins V Survey](https://github.com/yourname/perkins-v-survey) | Automates cleaning and logic-adjusted SurveyMonkey results for CTE student feedback. |
+| [CLAC Survey](https://github.com/yourname/clac-survey-analysis) | Feedback analysis on academic support services used by students. |
+| [Graduation Follow-Up](https://github.com/yourname/graduation-followup-report) | Tracks graduate destinations and creates visuals for institutional reporting. |
 
 ---
 
-## 📌 Contact
+## Automation Projects
+Scripts that reduce repetitive work and improve response time.
 
-For more details or collaboration opportunities, feel free to [email me](mailto:dannyramos313@gmail.com).
+| Project | Description |
+|--------|-------------|
+| [Program Review Automation](https://github.com/yourname/program-review-automation) | PDF reports by course prefix showing enrollment trends and modality. |
+| [Accreditation Inventory](https://github.com/yourname/accreditation-inventory-automation) | Recursive file scanner for document audit used in urgent accreditation request. |
+
+---
+
+## Dashboarding & Visuals
+Static and interactive dashboards to support program planning and grant compliance.
+
+| Project | Description |
+|--------|-------------|
+| [CLNA Website Visuals](https://github.com/yourname/clna-website) | Data cleaning + static visual summaries embedded on the CLNA stakeholder site. |
+| [Informer Dashboard Highlights](https://github.com/yourname/informer-dashboard-demo) | Recreated Informer visuals using synthetic data. Screenshots and narrative walkthrough. |
+
+---
+
+## Compliance & Reporting Projects
+Institutional deliverables aligned with federal or state data requirements.
+
+| Project | Description |
+|--------|-------------|
+| [VEDS File Creation](https://github.com/yourname/veds-reporting) | Preparation of validated datasets aligned with the NJ Perkins V accountability metrics. |
+
+---
+
+## Skills & Tools
+- Python (pandas, matplotlib, reportlab, openpyxl)
+- Excel (Power Query, PivotTables)
+- SurveyMonkey, Informer, SPSS
+- Data storytelling & visualization
